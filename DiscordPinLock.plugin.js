@@ -19,7 +19,7 @@ module.exports = (() => {
                     "github_username": 'KaosdiyDev'
                 }
             ],
-            "version": "1.3.1",
+            "version": "1.1",
             "description": "Protect your Discord with a passcode.",
             github: "https://github.com/KaosdiyDev/DiscordPinLock",
             github_raw: "https://raw.githubusercontent.com/KaosdiyDev/DiscordPinLock/main/DiscordPinLock.plugin.js"
