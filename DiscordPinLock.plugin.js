@@ -2,7 +2,7 @@
  * @name DiscordPinLock
  * @author Kaosdiy
  * @authorLink https://github.com/KaosdiyDev
- * @version 1.3.1
+ * @version 1.1
  * @description Protect your Discord with a passcode.
  * @website https://github.com/KaosdiyDev/DiscordPinLock
  * @updateUrl https://raw.githubusercontent.com/KaosdiyDev/DiscordPinLock/main/DiscordPinLock.plugin.js
