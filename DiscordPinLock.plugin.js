@@ -21,15 +21,15 @@ module.exports = (() => {
             ],
             "version": "1.3.1",
             "description": "Protect your Discord with a passcode.",
-            github: "https://github.com/arg0NNY/DiscordPlugins/tree/master/PasscodeLock",
-            github_raw: "https://raw.githubusercontent.com/arg0NNY/DiscordPlugins/master/PasscodeLock/PasscodeLock.plugin.js"
+            github: "https://github.com/KaosdiyDev/DiscordPinLock",
+            github_raw: "https://raw.githubusercontent.com/KaosdiyDev/DiscordPinLock/main/DiscordPinLock.plugin.js"
         },
         "changelog": [
             {
                 "type": "added",
                 "title": "What's new",
                 "items": [
-                    "The following localizations have been added: Traditional Chinese, Croatian, Czech, Hindi, Italian, Japanese, Polish, Portuguese (Brazilian), Romanian, Thai, Turkish, Vietnamese. You can help translate the plugin into your language on the Crowdin page, which can be found at the bottom of the plugin settings.",
+                    "Fixed Bugs where couldn't input pin along with privacy issues.",
                 ]
             }
         ]
